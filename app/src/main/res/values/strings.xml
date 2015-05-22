@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ChickenMania</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Chicken_kadai">Chicken Kadai</string>
+    <string-array name="FoodItems">
+        <item>Chicken Butter Masala</item>
+        <item>Chichen Kadai</item>
+        <item>Chicken tandoor</item>
+        <item>Chicken kadi</item>
+        <item>Chicken biryani</item>
+        <item>Chicken Kofta</item>
+        <item>Chicken Zingerburger</item>
+        <item>Chicken popcorn</item>
+    </string-array>
+    <string-array name="Rates">
+        <item>Rs 120</item>
+        <item>Rs 150</item>
+        <item>Rs 200</item>
+        <item>Rs 60</item>
+        <item>Rs 120</item>
+        <item>Rs 150</item>
+        <item>Rs 115</item>
+        <item>Rs 99</item>
+    </string-array>
+</resources>
